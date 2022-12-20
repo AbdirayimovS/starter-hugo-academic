@@ -210,10 +210,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+       Feel free to contact me for any queries.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: abdirayimovsardor20@gmail.com
+      phone: +82 010-7619-8646
       appointment_url: 'https://calendly.com/sardorabdirayimov/30min'
       address:
         city: Daejeon
