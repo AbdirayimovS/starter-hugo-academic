@@ -220,11 +220,6 @@ sections:
         postcode: '34597'
         country: South Korea
         country_code: KR
-      contact_links:
-        - icon: telegram
-          icon_pack: fab
-          name: Telegram
-          link: 'https://t.me/Sardor2o18'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
