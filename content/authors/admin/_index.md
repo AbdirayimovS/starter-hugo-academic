@@ -18,7 +18,7 @@ role: Computer Vision and Deep Learning student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Woosng University
+  - name: Woosong University
     url: https://english.wsu.ac.kr/main/index.jsp
 
 # Short bio (displayed in user profile at end of posts)
