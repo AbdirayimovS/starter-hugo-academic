@@ -1,41 +1,47 @@
 ---
 # Display name
-title: Sardor Abdirayimov
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Sardor
-last_name: Abdirayimov
+first_name: Alice
+last_name: Wu
 
 # Status emoji
 status:
-  icon: ⚡
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Computer Vision and Deep Learning student
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Woosong University
-    url: https://english.wsu.ac.kr/main/index.jsp
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My fiels of interest is vary from image classification to object detection
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Deep Learning
-  - Computer Vision
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in AI and Big Data
-      institution: Woosong University
-      year: 2021-2025
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,25 +51,34 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/AbdirayimovS
+    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sardorabdirayimov/
+    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/SardorAbdirayimovResume.pdf
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'abdirayimovsardor20@gmail.com'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Sardor Abdirayimov is sophomore student at Woosong university. His keen interest in deep learning open his way to solve real world problems by helping cimputers to learn from data.
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
