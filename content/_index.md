@@ -1,17 +1,17 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2022-12-20
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Sardor CV
       image:
         filename: hero-academic.png
       cta:
-        label: '**Get Started**'
+        label: '**Get Started, I edit it**'
         url: https://wowchemy.com/templates/
       cta_alt:
         label: Ask a question
